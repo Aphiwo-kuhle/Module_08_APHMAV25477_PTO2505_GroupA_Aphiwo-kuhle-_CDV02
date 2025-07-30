@@ -14,7 +14,7 @@
 ## 📌 Pinned Projects
 Here are a few of my favorite or most recent projects:
 
-➡️ [Responsive Footer Design (SDF05)](https://github.com/your-username/SDF05-responsive-footer)  
+➡️ [Responsive Footer Design (SDF05)](https://github.com/Aphiwo-kuhle/Module_08_APHMAV25477_PTO2505_GroupA_Aphiwo-kuhle_SDF05.git)  
 ➡️ [Cat Portfolio (CDV01)](https://github.com/your-username/CDV01-cat-portfolio)
 
 ## 📫 How to Reach Me
