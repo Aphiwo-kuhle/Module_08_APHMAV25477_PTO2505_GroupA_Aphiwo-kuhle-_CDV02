@@ -15,7 +15,7 @@
 Here are a few of my favorite or most recent projects:
 
 ➡️ [Responsive Footer Design (SDF05)](https://github.com/Aphiwo-kuhle/Module_08_APHMAV25477_PTO2505_GroupA_Aphiwo-kuhle_SDF05.git)  
-➡️ [Cat Portfolio (CDV01)](https://github.com/your-username/CDV01-cat-portfolio)
+➡️ [Cat Portfolio (CDV01)](https://github.com/Aphiwo-kuhle/Module_06_APHMAV25477_PTO2505_GroupA_Aphiwo-kuhle_SDF03.git)
 
 ## 📫 How to Reach Me
 - Email: [aphiwokuhlem2223@gmail.com](mailto:aphiwokuhlem2223@gmail.com)  
