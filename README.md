@@ -1,7 +1,7 @@
 # 👋 Hello! I am **Aphiwokuhle Mavimbela**
 
 🎓 A passionate **software developer-in-training** at CodeSpace  
-🌱 Currently learning: `HTML` `CSS` — and soon `JavaScript`  
+🌱 Currently learning: `HTML` `CSS` and soon `JavaScript`  
 🚀 Obsessed with creating clean, responsive, mobile-friendly websites  
 💼 Eager to collaborate, grow, and take on real-world challenges!
 
@@ -31,6 +31,7 @@ Here are a few of my recent and favourite projects:
 
 ## 📫 How to Reach Me
 📧 Email: [aphiwokuhlem2223@gmail.com](mailto:aphiwokuhlem2223@gmail.com)
+
 💼 LinkedIn: [linkedin.com/in/aphiwokuhle-mavimbela-78a6b836a](https://www.linkedin.com/in/aphiwokuhle-mavimbela-78a6b836a)
 
 ---
