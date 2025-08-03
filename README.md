@@ -30,8 +30,8 @@ Here are a few of my recent and favourite projects:
 ---
 
 ## 📫 How to Reach Me
-
-📧 Email: [aphiwokuhlem2223@gmail.com](mailto:aphiwokuhlem2223@gmail.com)  
+📧 Email: [Contact Me](mailto:aphiwokuhlem2223@gmail.com)
+  
 💼 LinkedIn: [linkedin.com/in/aphiwokuhle-mavimbela-78a6b836a](https://www.linkedin.com/in/aphiwokuhle-mavimbela-78a6b836a)
 
 ---
